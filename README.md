@@ -1,1 +1,0 @@
-# terraform_backend_practice
